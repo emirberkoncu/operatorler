@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\bin\Debug\net8.0\Operatorler.exe
+C:\Users\defeatedbynone\Desktop\cs#\Operatorler\bin\Debug\net8.0\Operatorler.deps.json
+C:\Users\defeatedbynone\Desktop\cs#\Operatorler\bin\Debug\net8.0\Operatorler.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\bin\Debug\net8.0\Operatorler.dll
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\bin\Debug\net8.0\Operatorler.pdb
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.dll
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\refint\Operatorler.dll
+c:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.pdb
+C:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\Operatorler.genruntimeconfig.cache
+C:\Users\defeatedbynone\Desktop\cs#\Operatorler\obj\Debug\net8.0\ref\Operatorler.dll
